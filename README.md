@@ -22,7 +22,7 @@ This project demonstrates a serverless application using AWS services. The appli
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/vpattem/aws-serverless-app.git
+git clone https://github.com/venpattem/aws-serverless-app.git
 cd aws-serverless-app
 ```
 
